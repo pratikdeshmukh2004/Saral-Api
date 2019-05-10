@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Learning Satyam",
+    "description": "In this course we learn Python.",
+    "id": 1,
+    "exercises": [
+      {
+        "courseId": "1",
+        "name": "Intro anand and pratik",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "---Hello! Yeh ek hint hai!!!",
+        "id": 1
+      },
+      {
+        "courseId": "1",
+        "name": "Introduction of html and css",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "---Hello! Yeh ek hint hai!!!",
+        "id": 2
+      },
+      {
+        "courseId": "1",
+        "name": "Introduction of html and css",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "---Hello! Yeh ek hint hai!!!",
+        "id": 3
+      },
+      {
+        "courseId": "1",
+        "name": "Introduction of html and cssssssssss",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "---Hello! Yeh ek hint hai!!!",
+        "id": 4
+      },
+      {
+        "courseId": "1",
+        "name": "Introduction of html and cssssssssss",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "---Hello! Yeh ek hint hai!!!",
+        "id": 5
+      },
+      {
+        "courseId": "1",
+        "name": "Introduction of html and cssssss123456788ssss",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "---Hello! Yeh ek hint hai!!!",
+        "id": 6
+      },
+      {
+        "name": "Intro",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "---Hello! Yeh ek hint hai!!!",
+        "id": 7,
+        "courseId": "1"
+      },
+      {
+        "name": "Intro",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "---Hello! Yeh ek hint hai!!!",
+        "id": 8,
+        "courseId": "1"
+      }
+    ]
+  },
+  {
+    "name": "Learning Anand",
+    "description": "In this course we learn about Nodejs express.",
+    "id": 2,
+    "exercises": [
+      {
+        "courseId": "2",
+        "name": "Intro",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "---Hello! Yeh ek hint hai!!!",
+        "id": 1
+      },
+      {
+        "courseId": "2",
+        "name": "Introduction of css",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!",
+        "id": 2
+      },
+      {
+        "courseId": "2",
+        "name": "Introduction of html and cssssssssss",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "---Hello! Yeh ek hint hai!!!",
+        "id": 3
+      },
+      {
+        "name": "Intro anand",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "---Hello! Yeh ek hint hai!!!",
+        "id": 4,
+        "courseId": "2"
+      }
+    ]
+  },
+  {
+    "name": "Learning Yogendra",
+    "description": "In this course we learn HTML and CSS.",
+    "id": 3,
+    "exercises": [
+      {
+        "courseId": "3",
+        "name": "Hello NavGurukul",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!",
+        "id": 1
+      },
+      {
+        "courseId": "3",
+        "name": "Hello NavGurukul",
+        "content": "Iss exercise mein hum NavGurukul ke baare me sikhenge.",
+        "hint": "Hello! Yeh ek hint hai!!!",
+        "id": 2
+      }
+    ]
+  }
+]

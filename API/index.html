@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head>
+  <title>LOG IN PAGE</title>
+  <style>
+    #div1 {background-color: #3BB9FF;
+      margin-left: 650px;
+      margin-right: 650px;
+      margin-top: 50px;}
+    #div2 {background-color: green;
+      margin-left: 650px;
+      margin-right: 650px;
+      padding: 100px;}
+    #input1{
+      width: 200px;
+      height: 30px;
+      font-size: 16px;
+    }
+    #click{
+      width: 160px;
+      height: 50px;
+      font-size: 30px;
+      background-color: red;
+      border-radius: 50px;
+      border-color: red;
+    }
+    
+  </style>
+</head>
+<body>
+<div>
+<div id="div1">
+  <center><img style="width: 40%; border-radius: 200px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG_Cyic8INWCnkyqD5NJxFDCbMTITsovF4HV0mhlMyaZvax564tw"></center>
+</div >
+<div id="div2">
+  <form action="http://192.168.1.78:5252/process_get">
+    <h2>Enter your email : <input type="email" name="email" id="input1" size="50" required="@"></h2><br><br>
+    <h2>Enter Password : <input type="password" name="password" id="input1" size="50" ></h2><br><br>
+    <center><input type="submit" value="Login" id="click"></center>
+  </form>
+</div>
+</div>
+</body>
+</html>

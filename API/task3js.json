@@ -1,0 +1,163 @@
+[
+  {
+    "name": "Learning HTML/CSS (pratik)",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": "1",
+    "exercise": [
+      {
+        "courseId": 1,
+        "exerciseId": 1,
+        "name": "Introduction",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "submission": [
+          {
+            "id": 1,
+            "content": "kuch nahihota hai.",
+            "username": "pratik"
+          },
+          {
+            "content": "kuch nahihota hai.",
+            "username": "pratik",
+            "id": 2
+          },
+          {
+            "content": "kuch nahihota hai.",
+            "username": "pratik 1234567890",
+            "id": 3
+          }
+        ]
+      },
+      {
+        "courseId": 1,
+        "exerciseId": 2,
+        "name": "Introduction python",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh 2 hint hai!!!!",
+        "submission": [
+          {
+            "id": 1,
+            "content": "kuch nahihota hai.",
+            "username": "pratik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Learning HTML/CSS (Aman)",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": "4",
+    "exercise": [
+      {
+        "courseId": 1,
+        "exerciseId": 3,
+        "name": "Introduction",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "submission": [
+          {
+            "id": 1,
+            "content": "kuch nahihota hai.",
+            "username": "pratik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Learning HTML/CSS (shusant)",
+    "description": "Navgurukul",
+    "id": "2",
+    "exercise": [
+      {
+        "courseId": 3,
+        "exerciseId": 2,
+        "name": "Introduction",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "submission": [
+          {
+            "id": 1,
+            "content": "kuch nahihota hai.",
+            "username": "pratik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Learning HTML/CSS (anand)",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": "1",
+    "exercise": [
+      {
+        "courseId": 2,
+        "exerciseId": 1,
+        "name": "Introduction",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "submission": [
+          {
+            "id": 1,
+            "content": "kuch nahihota hai.",
+            "username": "pratik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Learning HTML/CSS (aijaj)",
+    "description": "Navgurukul",
+    "id": "2",
+    "exercise": [
+      {
+        "courseId": 2,
+        "exerciseId": 2,
+        "name": "Introduction python",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh 2 hint hai!!!!",
+        "submission": [
+          {
+            "id": 1,
+            "content": "kuch nahihota hai.",
+            "username": "pratik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Learning HTML/CSS (Yogesh)",
+    "description": "He is a student of NaVGurukul",
+    "id": "3",
+    "exercise": [
+      {
+        "courseId": 2,
+        "exerciseId": 3,
+        "name": "Introduction of Navgurukul",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "submission": [
+          {
+            "id": 1,
+            "content": "kuch nahihota hai.",
+            "username": "pratik"
+          }
+        ]
+      },
+      {
+        "courseId": 3,
+        "exerciseId": 1,
+        "name": "Introduction python",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh 2 hint hai!!!!",
+        "submission": {
+          "content": "kuch nahihota hai.",
+          "username": "pratik4"
+        }
+      }
+    ]
+  }
+]
